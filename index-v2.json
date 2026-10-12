@@ -1,0 +1,34 @@
+{
+  "name": "VORTEXE Extensions",
+  "badgeLabel": "VTX",
+  "signingKey": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2",
+  "contact": {
+    "website": "https://github.com/aymzix/vortexe-extensions",
+    "discord": null
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Azora",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.azora",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/v1.6.73/tachiyomi-ar.azora-v1.6.73.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/azora.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106073,
+        "versionName": "1.6.73",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 2482399499047903203,
+            "name": "Azora",
+            "language": "ar",
+            "homeUrl": "https://azorafly.com"
+          }
+        ]
+      }
+    ]
+  },
+  "extensionListUrl": null
+}
