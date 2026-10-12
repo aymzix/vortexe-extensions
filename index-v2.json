@@ -27,6 +27,273 @@
             "homeUrl": "https://azorafly.com"
           }
         ]
+      },
+      {
+        "name": "AriaToon",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.ariatoon",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.ariatoon-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/ariatoon.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 8156789703798131884,
+            "name": "AriaToon",
+            "language": "ar",
+            "homeUrl": "https://ariatoon.com"
+          }
+        ]
+      },
+      {
+        "name": "Despair Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.despairmanga",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.despairmanga-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/despairmanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 886527590434722171,
+            "name": "Despair Manga",
+            "language": "ar",
+            "homeUrl": "https://despair-world.com"
+          }
+        ]
+      },
+      {
+        "name": "Dilar",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.dilar-v1.6.18.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/dilar.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106018,
+        "versionName": "1.6.18",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 7634600808243438399,
+            "name": "Dilar",
+            "language": "ar",
+            "homeUrl": "https://dilar.tube"
+          }
+        ]
+      },
+      {
+        "name": "EShadow",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.eshadow",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.eshadow-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/eshadow.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 8617573161604126293,
+            "name": "EShadow",
+            "language": "ar",
+            "homeUrl": "https://eshadow.net"
+          }
+        ]
+      },
+      {
+        "name": "Hijala",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.hijala",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.hijala-v1.6.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/hijala.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106003,
+        "versionName": "1.6.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 917436262447415426,
+            "name": "Hijala",
+            "language": "ar",
+            "homeUrl": "https://hijala.com"
+          }
+        ]
+      },
+      {
+        "name": "HizoManga",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.hizomanga",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.hizomanga-v1.6.55.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/hizomanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106055,
+        "versionName": "1.6.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 4177563748162518441,
+            "name": "Hizo Manga",
+            "language": "ar",
+            "homeUrl": "https://hizomanga.net"
+          }
+        ]
+      },
+      {
+        "name": "Kawii Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.kawiimanga",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.kawiimanga-v1.6.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/kawiimanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 5037404094705788694,
+            "name": "Kawii Manga",
+            "language": "ar",
+            "homeUrl": "https://kawaiimanga.org"
+          }
+        ]
+      },
+      {
+        "name": "Lava Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.lavascans",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.lavascans-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/lavascans.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 3209001028102012989,
+            "name": "Lava Scans",
+            "language": "ar",
+            "homeUrl": "https://lavascans.com"
+          }
+        ]
+      },
+      {
+        "name": "Mangalek",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.mangalek",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.mangalek-v1.6.68.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/mangalek.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106068,
+        "versionName": "1.6.68",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 918460697583900080,
+            "name": "مانجا ليك",
+            "language": "ar",
+            "homeUrl": "https://mangalik.net",
+            "mirrorUrls": [
+              "https://mangalik.net",
+              "https://lekmanga.online",
+              "https://like-manga.net",
+              "https://lekmanga.site",
+              "https://manga-leko.site"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MangaSwat",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.mangaswat",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.mangaswat-v1.6.61.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/mangaswat.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106061,
+        "versionName": "1.6.61",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 7657007209499352344,
+            "name": "MangaSwat",
+            "language": "ar",
+            "homeUrl": "https://meshmanga.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaTek",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.mangatek",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.mangatek-v1.6.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/mangatek.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106007,
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 1011491016492324749,
+            "name": "MangaTek",
+            "language": "ar",
+            "homeUrl": "https://mangatek.com"
+          }
+        ]
+      },
+      {
+        "name": "Onma",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.onma",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.onma-v1.6.0.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/onma.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106000,
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 335499577904379512,
+            "name": "مانجا اون لاين",
+            "language": "ar",
+            "homeUrl": "https://onma.top"
+          }
+        ]
+      },
+      {
+        "name": "Team X",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.teamx",
+        "resources": {
+          "apkUrl": "https://github.com/aymzix/vortexe-extensions/releases/download/vortexe-extensions-2026-10-12/tachiyomi-ar.teamx-v1.6.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/aymzix/vortexe-extensions/main/icons/teamx.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106033,
+        "versionName": "1.6.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": 4110737012647435874,
+            "name": "Team X",
+            "language": "ar",
+            "homeUrl": "https://olympustaff.com"
+          }
+        ]
       }
     ]
   },

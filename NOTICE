@@ -1,3 +1,5 @@
-Azora APK v1.6.73 is redistributed unmodified with its original package identity and signing certificate. VORTEXE does not claim authorship of Azora. The source listing points to the original project website, https://azorafly.com. Preserve the original copyright and license notices contained in the distributed work.
+تُعاد توزيع ملفات APK التالية دون تعديل، بهوية الحزمة الأصلية وشهادة التوقيع الأصلية: Azora 1.6.73، AriaToon 1.6.1، Despair Manga 1.6.1، Dilar 1.6.18، EShadow 1.6.1، Hijala 1.6.3، HizoManga 1.6.55، Kawii Manga 1.6.2، Lava Scans 1.6.1، Mangalek 1.6.68، MangaSwat 1.6.61، MangaTek 1.6.7، Onma 1.6.0، وTeam X 1.6.33.
 
-The repository-level LICENSE file accompanies this distribution. It does not change the APK's publisher signature or transfer ownership of the extension.
+لا يدّعي VORTEXE تأليف هذه الإضافات. تبقى حقوق المؤلف والعلامات التجارية والتراخيص والإشعارات الأصلية الخاصة بكل إضافة محفوظة؛ راجع الترخيص والإشعارات المصاحبة للملفات. أسماء المصادر وعناوين مواقعها مدرجة في `index-v2.json`.
+
+ملف `LICENSE` على مستوى هذا المستودع يرافق توزيعه، لكنه لا يغير توقيعات الناشر لملفات APK أو ينقل ملكية الإضافات.
